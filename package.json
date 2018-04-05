@@ -1,0 +1,19 @@
+{
+  "name": "gh_compare",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-collapsible": "^2.0.4",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4",
+    "superagent": "^3.8.2",
+    "superagent-throttle": "^0.2.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
