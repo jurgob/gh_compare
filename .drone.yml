@@ -10,4 +10,4 @@ pipeline:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     commands:
-      - "test"
+      - "/app/run.sh test"
