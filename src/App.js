@@ -138,7 +138,6 @@ class GHPage extends Component {
 }
 
 // const Separator = () => (<span> | </span>)
-
 // const OrderHeader = ({headersValues, selectedValue, onClick}) => {
 //
 //   const HeaderElemet = ({h,idx}) => ( <span className={ (h.value === selectedValue) ? "OHEl-selected" : "OHEl" }  key={idx} onClick={() => onClick(h.value)} > {h.header}  </span>    )
